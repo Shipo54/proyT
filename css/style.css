@@ -1,0 +1,21 @@
+*
+{
+    margin: 20px ;
+    background-color: aqua;
+    
+}
+body
+{
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+}
+p
+{
+    background-color: chartreuse;
+}
